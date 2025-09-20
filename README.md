@@ -2,7 +2,7 @@
 
 Convert digital time (`HH:mm`) into **British spoken form** (e.g., `10:30 → half past ten`).
 
-## 🚀 How to Run
+## How to Run
 
 ### Requirements
 - Java 17+
